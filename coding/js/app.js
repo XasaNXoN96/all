@@ -5,11 +5,11 @@ if(age>30){
     console.log(`saytga kirishingiz mumkin link https://yandex.uz`);
 }
 else if(age> 20){
-    console.log("xali kichkina ekansiz");
+    alert("xali kichkina ekansiz");
 }
 else if(age == 18){
-    console.log("keyinroq urinib koring");
+    alert("keyinroq urinib koring");
 }
 else{
-    console.log("sizga ruxsat berilmadi!");
+   alert("sizga ruxsat berilmadi!");
 }
